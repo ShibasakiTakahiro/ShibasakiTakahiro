@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 東京の大学院生です。機械学習が好きですが、モデルの実装力がありません。それを含め、プログラミングの能力向上を目指してます。趣味は音楽を聴くことでグランジロックが好きです。
+
+<div>
+<a href="https://speakerdeck.com/shiba4839">
+<img src="https://img.shields.io/badge/-speakerdeck-009287.svg?logo=speakerdeck&style=for-the-badge&logoColor=ffffff" />
+</a>
+</div>
