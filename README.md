@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-東京の大学院生です。機械学習が好きですが、今までは理論の勉強がメインだったので、最近はモデルを実装することを意識しています。今は研究を主軸に、楽曲リコメンドシステムの[Shibatify](https://app.shib-music.com)や言語処理100本ノック頑張ります。speakerdeckに論文資料等掲載しているので、ぜひ見てください。
+東京の大学院生です。機械学習が好きですが、今までは理論の勉強がメインだったので、最近はモデルを実装することを意識しています。今は研究を主軸に、楽曲リコメンドシステムの[Shibatify](https://app.shiba-music.com)や言語処理100本ノック頑張ります。speakerdeckに論文資料等掲載しているので、ぜひ見てください。
 
 <div>
 <a href="https://speakerdeck.com/shiba4839">
